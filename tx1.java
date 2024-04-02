@@ -10,6 +10,7 @@ public class tx1 {
             bol[j]="R";
 //            System.out.println(bol[j]);
         }
+        System.out.println(bol[0]);
         for(int i=0;i<m;i++){
 //            System.out.println(i);
             int u=sc.nextInt();
